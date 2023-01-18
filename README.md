@@ -1,16 +1,21 @@
-### Hi there 👋
+## Bem-vinda(o)!
 
-<!--
-**nathalietaylor/nathalietaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/nathalietaylor">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalietaylor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalietaylor&layout=compact&langs_count=6&theme=tokyonight"/>
 
-Here are some ideas to get you started:
+</div>
+<div style="display: inline_block"><br>
+</div>
+ 
+ <br>
+   ### Para me conhecer um pouco mais, dá uma olhadinha nas redes abaixo!
+ 
+<div> 
+   <a href="https://instagram.com/nathalietaylor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nathalietaylortech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.https://www.linkedin.com/in/nathalie-m-taylor-zampieri-680252171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
