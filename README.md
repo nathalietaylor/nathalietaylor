@@ -1,6 +1,7 @@
 ## Bem-vinda(o)!
 
-*Graduada em Fonoaudiologia, pós graduada em Fonoaudiologia Hospitalar e Especialista em Fonoaudiologia Hospitalar pelo Conselho Federal, e agora graduanda em Ciência da Computação!* 
+*Graduada em Fonoaudiologia, pós graduada em Fonoaudiologia Hospitalar e Especialista em Fonoaudiologia Hospitalar pelo Conselho Federal, e agora graduanda em Ciência da Computação!* 🩺💻
+
 
  <div>
    <a href="https://github.com/nathalietaylor">
